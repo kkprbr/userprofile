@@ -56,7 +56,7 @@ function onTodoStatusChange(checkboxId, labelId){
 
     let labelElement = document.getElementById(labelId);
 
-    labelElement.classList.toggle("checked");
+    //labelElement.classList.toggle("checked");//
 
 
 }
